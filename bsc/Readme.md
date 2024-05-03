@@ -1,0 +1,1 @@
+# BSC Test Contract BEP20
